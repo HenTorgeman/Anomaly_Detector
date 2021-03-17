@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Anomaly Detector:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Anomaly_Detector_jar</output-path>
+    <root id="archive" name="Anomaly Detector.jar">
+      <element id="module-output" name="Anomaly Detector" />
+    </root>
+  </artifact>
+</component>
